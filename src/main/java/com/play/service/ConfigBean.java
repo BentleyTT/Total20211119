@@ -13,5 +13,6 @@ public class ConfigBean {
         System.out.println("2");
         System.out.println("hot-fix");
         System.out.println("zhuxina1");
+        System.out.println("hot-fix2");
     }
 }
