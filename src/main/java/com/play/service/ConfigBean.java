@@ -10,5 +10,6 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 public class ConfigBean {
 
     public ConfigBean() {
+        System.out.println("2");
     }
 }
