@@ -16,5 +16,6 @@ public class ConfigBean {
         System.out.println("hot-fix2");
         System.out.println("66666666666");
         System.out.println("77777777");
+        System.out.println("1010100");
     }
 }
